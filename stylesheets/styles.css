@@ -22,6 +22,11 @@ body {
   color: black;
 }
 
+.alink {
+  display: inline;
+  padding: 1em;
+}
+
 h1 {
   font-weight: lighter;
 }
