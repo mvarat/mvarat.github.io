@@ -29,6 +29,11 @@ body {
 
 h1 {
   font-weight: lighter;
+  letter-spacing: 2px;
+}
+
+h4 {
+  letter-spacing: 2px;
 }
 
 h5 {
